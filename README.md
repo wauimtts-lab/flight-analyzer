@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Version](https://img.shields.io/badge/version-1.0.0-green)
 
-![Самолёт](https://placehold.co/900x300/1e3a5f/ffffff?text=FlightAnalyzer)
+![Самолёт](https://static.vecteezy.com/system/resources/previews/026/748/991/non_2x/airplane-in-sky-background-free-photo.jpg)
 
 ---
 
